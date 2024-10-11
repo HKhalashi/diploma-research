@@ -352,7 +352,7 @@ Please refer to the `REFERENCES.md` file for a list of academic papers and resou
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue or contact the project maintainer at [kozgunov@mail.ru](mailto:kozgunovn@mail.ru).
+For any questions or suggestions, feel free to open an issue or contact the project maintainer at [mhkhalashi@gmail.com](mailto:mhkhalashi@gmail.com) or [kozgunov@mail.ru](mailto:kozgunovn@mail.ru).
 
 ---
 
