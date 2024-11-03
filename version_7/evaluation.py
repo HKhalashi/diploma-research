@@ -60,7 +60,7 @@ def evaluate_global_model(model, test_loader):
     rouge_scores = rouge.get_scores(all_predictions_text, all_references_text, avg=True)
     
  # Oliseenko commented that it's better to apply metrics, which are recommended/published as the best for NAMELY THIS DATASET
- # I think it is not a good idea first because of the resean that I explaiined in "models'py" file, second because we have to generalize our system not to restrict it to a particular dataset
+ # I think it is not a good idea first because of the resean that I explaiined in "data_preprocessing.py" file, second because we have to generalize our system not to restrict it to a particular dataset
     
     return {
         'Accuracy': accuracy,
